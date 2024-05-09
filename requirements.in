@@ -1,0 +1,11 @@
+# libraries
+torch-hd
+torch 
+numpy
+rich
+matplotlib
+yaspin
+
+# dep
+pytest
+-e .
